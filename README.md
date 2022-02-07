@@ -9,5 +9,5 @@ The technology used was VS Code, Node.js, Express, Github, and Heroku, as well a
 ![Note Taker](NoteTaker2.png)
 
 # Links to deployed app
-[Deployed App](#)
+[Deployed App](https://note-takerx3000.herokuapp.com/notes)
 
